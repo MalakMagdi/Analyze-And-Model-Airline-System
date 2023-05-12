@@ -52,4 +52,4 @@ In our Data Vault Model, we have made certain assumptions about the business:
 - Severity levels for customer care tickets have been defined.
 - Assumptions have been made regarding the acquisition of complaint time.
 
-For more details on the project implementation, please refer to
+
