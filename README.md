@@ -1,4 +1,4 @@
-# Analyze-And-Model-Airline-System
+# Data Warehouse Project for Airline Company
 
 This repository contains the documentation and code for the Data Warehouse Project. The project aims to develop a robust and scalable data warehouse to support various business processes in the airline industry. The data warehouse will facilitate efficient data storage, retrieval, and analysis, enabling better decision-making and improving operational efficiency.
 
